@@ -1,5 +1,5 @@
 # easing-function-sass-variables
-Variables containing the cubic-bezier value for the various easing function. Useful for performing css3 keyframe animations.
+Variables containing the cubic-bezier value for the various easing functions. Useful for performing css3 keyframe animations.
 
 ## Using
 
